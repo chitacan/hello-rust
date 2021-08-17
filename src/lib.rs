@@ -1,3 +1,3 @@
 pub fn say() -> String {
-    "hello world"
+    "hello world".to_string()
 }
