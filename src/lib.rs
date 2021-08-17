@@ -1,6 +1,3 @@
-#[cfg(hello)]
-mod hello {
-    fn hello() {
-        "world"
-    }
+pub fn say() -> String {
+    "hello world"
 }
